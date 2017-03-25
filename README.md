@@ -7,7 +7,8 @@
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
 The goal of this project is to have a clean Travis CI build, with specs:
- * Build system: manual
+
+ * Build system: none
  * C++ compiler: `gcc`
  * C++ version: `C++98`
  * Libraries: `STL` only
@@ -15,5 +16,8 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: one single file, `main.cpp`
 
 More complex builds:
+ * Use C++11: [travis_gcc_cpp11](https://www.github.com/richelbilderbeek/travis_gcc_cpp11)
+ * Use C++14: [travis_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_gcc_cpp14)
+ * Use C++17: [travis_gcc_cpp17](https://www.github.com/richelbilderbeek/travis_gcc_cpp17)
  * Add Coverity Scan: [travis_qmake_gcc_cpp98_coverity](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_coverity)
  * Use of `qmake`: [travis_qmake_gcc_cpp98](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98)
