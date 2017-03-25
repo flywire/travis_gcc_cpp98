@@ -15,7 +15,12 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Code coverage: none
  * Source: one single file, `main.cpp`
 
+Equally complex builds:
+
+ * Use clang instead of GCC: [travis_clang_cpp98](https://www.github.com/richelbilderbeek/travis_clang_cpp98)
+
 More complex builds:
+
  * Use C++11: [travis_gcc_cpp11](https://www.github.com/richelbilderbeek/travis_gcc_cpp11)
  * Use C++14: [travis_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_gcc_cpp14)
  * Use C++17: [travis_gcc_cpp17](https://www.github.com/richelbilderbeek/travis_gcc_cpp17)
