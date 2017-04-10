@@ -18,6 +18,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 Equally complex builds:
 
  * Use clang instead of GCC: [travis_clang_cpp98](https://www.github.com/richelbilderbeek/travis_clang_cpp98)
+ * Use AppVeyor: [appveyor_gcc_cpp98](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp98)
 
 More complex builds:
 
